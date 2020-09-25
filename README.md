@@ -30,3 +30,6 @@ Define the viral tweet, as here if a tweet has greater than thousand retweets th
 ## At Last
 Plot the classifier score over different values of k and see the result. Here is mine 
 ![Plot](https://github.com/taneemishere/Viral-Tweet-With-K-Nearest-Neighbor/blob/master/plot.png)
+
+## Scraping the Data
+To scraping the data from twitter I use [this script](https://github.com/taneemishere/Viral-Tweet-With-K-Nearest-Neighbor/blob/master/Scraping%20Twitter%20Data%20by%20Keyword.py) to scrap and paste the twitter data in the form of csv file.R
