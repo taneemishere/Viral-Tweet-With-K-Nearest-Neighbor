@@ -28,7 +28,7 @@ Define the viral tweet, as here if a tweet has greater than thousand retweets th
 
 
 ## At Last
-Plot the classifier score over different values of k and see the result. Here is mine 
+Plot the classifier score over different values of k and see the result. Here is my result, at most we can have 97+ accuracy which is awesome. Moreover, next we should definitely code for its confidence aka the precision of the algorithm as well.
 ![Plot](https://github.com/taneemishere/Viral-Tweet-With-K-Nearest-Neighbor/blob/master/plot.png)
 
 ## Scraping the Data
