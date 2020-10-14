@@ -24,7 +24,8 @@ Here is the decription of the data
 
 ## Viral or Not
 Define the viral tweet, as here if a tweet has greater than thousand retweets that means it is viral otherwise not. For this viral is denoted by 
-1 and not viral is 0.
+1 and not viral is 0. We're doing this because as we know the numbers 
+do good in machine learning.
 
 
 ## At Last
