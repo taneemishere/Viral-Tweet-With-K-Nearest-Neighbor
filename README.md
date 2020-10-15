@@ -34,4 +34,4 @@ Plot the classifier score over different values of k and see the result. Here is
 
 ## Scraping the Data
 To scraping the data from twitter I use [this script](https://github.com/taneemishere/Viral-Tweet-With-K-Nearest-Neighbor/blob/master/Scraping%20Twitter%20Data%20by%20Keyword.py) to scrap and paste the twitter data in the form of csv file. This will create the <keyword>-tweets.csv file. 
-  I use the keyword Machine Learning that's why I have ```MachineLearning-tweets.csv``` in the read_csv method.
+  I use the keyword Machine Learning that's why I have ```MachineLearning-tweets.csv``` in the read_csv method. Here the data I used is not that much enough like 500 records is not sufficient I guess so if you like to train a model over this at least use 2000 plus records.
