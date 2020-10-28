@@ -14,7 +14,7 @@ features associated to that tweet.
 The data associated with this project is I scraped it from the twitter. For, if you need to 
 do the same first you'll need the [Twitter Developer Account](https://developer.twitter.com/). And then 
 create an app there and so you'll have your secret keys. So I scraped twitter for 5000 tweets. And get the 
-data about the tweet text, no of followers that specific user has and no of followees i-e here it is mentioned 
+data about the tweet text, number of followers that specific user has and number of followees i-e here it is mentioned 
 as friends.\
 One thing to remember is that I scraped twitter for the keyword Machine Learning you can do at your own also 
 one can scrape for some specific user as well.\
